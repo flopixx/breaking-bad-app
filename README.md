@@ -1,28 +1,12 @@
+<h>Proyecto realizado con react js consumiendo una api publica de breaking bad 💥 </h1>
 
-<h>Proyecto realizado con react js consumiendo una api publica de breaking bad </h1>
+<h1> 🌈Podes ver el vivo aca 🌈 </h1>
+<a href="https://breakingbadsite.netlify.app/">Ver</a>
 
-
-<h1>Podes ver el vivo aca</h1>
-<a href="https://wonderful-williams-b363bc.netlify.app/">Ver</a>
-
-
-<img src="https://github.com/flopixx/breaking-bad-react/blob/master/src/img/Breaking-Bad.png">
-
-
-
-
-
-
-
-
-
-
+<img src="https://github.com/flopixx/breaking-bad-app/blob/master/src/img/Breaking-Bad.png">
 
 
 # Getting Started with Create React App
-
-
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
